@@ -1,0 +1,18 @@
+$primary_color: red;
+$secondary_color: green;
+$tertiary_color: blue;
+
+
+header {
+    h2 {
+        color: $primary_color;
+    }
+    h3 {
+        color: $secondary_color;
+    }
+    p {
+        color: $tertiary_color;
+    }
+
+
+}
